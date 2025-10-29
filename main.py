@@ -14,7 +14,7 @@ from datetime import datetime
 
 #====================  Настройки  ====================
 
-BOT_TOKEN = os.environ.get("7556886894:AAE67gaiIKGI5CIlxOZ_tplzftphLm3W2n4")  # Токен вашего бота (получить у BotFather)
+BOT_TOKEN = os.environ.get("8048472680:AAFLIKClap7EEemfTyn3-nr3kMonIUnc46I")  # Токен вашего бота (получить у BotFather)
 TONCENTER_API_KEY = os.environ.get("8f8cccb7f853d0c040b34136dacd790fbf80701c7a03972932deaa61ffd3527c")  # Ваш API Key для TonCenter
 MNEMONIC = os.environ.get("MNEMONIC")  # Ваш мнемонический код (для кошелька)
 JETTON_ADDRESS = os.environ.get("JETTON_ADDRESS")  # Адрес Jetton токена (например, USDT)
